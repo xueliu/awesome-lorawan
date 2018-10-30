@@ -5,6 +5,20 @@ A curated list of awesome things related to LoRaWAN
 
 ## What is LoRaWAN
 
-## Hardwares
+## Hardware
 
-## Softares
+### PHY Chip
+
+### Module
+
+### Dev Board
+
+### Concentrator
+
+## Software
+
+### Node
+
+### Concentrator
+
+### Server
